@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<factura id="F0001" fecha= "10/02/2019">
+	<cliente>
+		<nombre> </nombre>
+		<teléfono> </teléfono>
+	</cliente>
+	<articulos id= "A001">
+		<descripción> </descripción>
+		<precio-unitario> </precio-unitario>
+		<precio-final> </precio-final>
+		<cantidad> </cantidad>
+	</articulos>
+	<precio-total>2000</precio-total>
+</factura>
